@@ -5,8 +5,9 @@ public class B1L1 {
 
         String tekst = "Hallo,";
         String tekst2 = " Hoe gaat het?";
-        String tekst3 = " Met mij gaat het goed.";
-        System.out.println(tekst + tekst2 + tekst3);
+        String tekst3 = "Met mij gaat het goed.";
+        System.out.println(tekst + tekst2);
+        System.out.println(tekst3);
 
 
 
